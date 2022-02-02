@@ -31,7 +31,7 @@ likelihood <- function(param)
 #===============================================================================
 
 
-prior <- function(param) 
+prior <- function(param)  
 { 
   m = param[1]
   c = param[2]
